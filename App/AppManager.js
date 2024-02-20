@@ -42,7 +42,7 @@ export default class AppManager {
                 res.backdrop_path,
                 res.vote_average,
                 res.genres
-            );;
+            );
 console.log('',movie);
 
             return movie;
