@@ -43,7 +43,7 @@ export default class AppManager {
                 res.vote_average,
                 res.genres
             );
-console.log('',movie);
+  
 
             return movie;
         } catch (error) {
